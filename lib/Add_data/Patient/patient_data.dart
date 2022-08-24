@@ -1,4 +1,4 @@
-import 'package:arogyam/Add_data/Patient/components/paMed_pick.dart';
+import 'package:arogyam/Add_data/Patient/components/pamed_pick.dart';
 import 'package:arogyam/Add_data/Patient/components/patient_data.dart';
 import 'package:arogyam/Add_data/Patient/components/patient_probs.dart';
 import 'package:flutter_neumorphic/flutter_neumorphic.dart';
@@ -19,13 +19,14 @@ class _NewPatientState extends State<NewPatient> {
         title: 'Arogyam Panchkarma',
         home: Scaffold(
             appBar: NeumorphicAppBar(
-              title: Text("Add Patient"),
+              title: const Text("Add Patient"),
               leading: NeumorphicButton(
-                style: NeumorphicStyle(
+                style: const NeumorphicStyle(
                   depth: 3,
+                  color: red,
                   boxShape: NeumorphicBoxShape.stadium(),
                 ),
-                child: Icon(Icons.arrow_back),
+                child: const Icon(Icons.arrow_back),
                 onPressed: () {
                   Navigator.pop(context);
                 },

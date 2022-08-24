@@ -4,7 +4,7 @@ import 'package:arogyam/constants.dart';
 import 'package:arogyam/Big_Data/medications.dart';
 
 class AddNewMeds extends StatefulWidget {
-  AddNewMeds({Key? key}) : super(key: key);
+  const AddNewMeds({Key? key}) : super(key: key);
 
   @override
   State<AddNewMeds> createState() => _AddNewMedsState();

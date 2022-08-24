@@ -22,13 +22,14 @@ class _NewMedicationsState extends State<NewMedications> {
         title: 'Arogyam Panchkarma',
         home: Scaffold(
           appBar: NeumorphicAppBar(
-            title: Text("Add Medications"),
+            title: const Text("Add Medications"),
             leading: NeumorphicButton(
-              style: NeumorphicStyle(
+              style: const NeumorphicStyle(
                 depth: 3,
+                color: red,
                 boxShape: NeumorphicBoxShape.stadium(),
               ),
-              child: Icon(Icons.arrow_back),
+              child: const Icon(Icons.arrow_back),
               onPressed: () {
                 Navigator.pop(context);
               },
