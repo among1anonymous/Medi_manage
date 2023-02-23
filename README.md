@@ -95,6 +95,8 @@
      Dont be this guy!
 
      <img src="Pics/Avoid.jpeg" width=50%>
+     
+  5. Alternatively, press `Ctall+Enter` after putting in a message 🙂
 
 ## Fun area
 
