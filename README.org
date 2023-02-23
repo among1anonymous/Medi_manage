@@ -1,28 +1,18 @@
-# arogyam
+#+title: Whatever
 
-A new Flutter project.
+* Group Definition
+** Ashim
+** Aditi
+** Bhargav
+** Saksham
 
-## Getting Started
+* Resources
+** Textual Resources
+** Video Resources
+- [[https://www.youtube.com/watch?v=nyvwx7o277U][Resource]]
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [EasyTable](https://pub.dev/packages/easy_table)
-- [Form Field](https://pub.dev/packages/custom_form_field)
-- [Multiselect](https://pub.dev/packages/multiselect)
-- [Other Multiselect](https://pub.dev/packages/multi_select_flutter)
-- [Neumorphic](https://pub.dev/packages/flutter_neumorphic)
-
-- [LaTeX](https://pub.dev/packages/flutter_tex)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-- [Resource](https://www.youtube.com/watch?v=nyvwx7o277U)
-
-## Patient Info
+* Testing Data
+** Patient Info
 
 | Info             | Type                           |
 | ---------------- | ------------------------------ |
@@ -45,7 +35,7 @@ samples, guidance on mobile development, and a full API reference.
 | Mensturation     | normal, Scanty, heavy          |
 | LMP              | Date                           |
 
-## Medications
+** Medications
 
 | Med                   | Dose                 |
 | --------------------- | -------------------- |
