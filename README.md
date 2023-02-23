@@ -34,7 +34,7 @@
   Do setup/link an account to your vscode using github for your own sanity. It will be visible here (cant show complete cuz of wayland reasons):
 
   ![Settings Sync](Pics/settings_sync.png)
-  
+
   It may look like a cog wheel
 
 - Additional
@@ -43,11 +43,13 @@
 ### Work Centric
 
 - Working with Markdown in VSCode
-  [Markdown lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - This will scream at you for mistakes made in VSCode using markdown. I _hate it_ but its good. Ask someone how to install
+
+  [Markdown lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - This will scream at you for mistakes made in VSCode using markdown. I **hate it** but its good. Ask someone how to install
 
   [Accompanying Video](https://youtu.be/watch?v=Hgucu1ch3mo)
 
 - Working with Containers (done for current user/worker)
+  
   [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 ## Working with Git and github
@@ -76,21 +78,22 @@
      ![Checkout](Pics/checkout.png)
 
 - Making Changes
-  1. Make changes to this file at the bottom, or create new files. Upto you.
+
+  1. Make changes to this file at the bottom `fun area`, or create new files. Upto you.
   2. Change to the source control panel, and write a message to accompany your push, try to be precise.
-   
+
      ![src](Pics/soruce.png)
+
   3. Stage all changes with the plus
-   
+
      ![Stage](Pics/stage.png)
 
   4. Commit and Sync the change
-     
-     
+
      ![Commits](Pics/commit.png)
 
      Dont be this guy!
-     
+
      <img src="Pics/Avoid.jpeg" width=50%>
 
 ## Fun area
