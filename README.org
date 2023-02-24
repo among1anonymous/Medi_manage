@@ -1,4 +1,6 @@
-#+title: Whatever
+#+title: Medi Manage
+
+* [[https://github.com/SabFaltu/Medi_manage/tree/Tester][Test Zone]]
 
 * Group Definition
 ** Ashim :creative:
