@@ -1,10 +1,16 @@
 #+title: Whatever
 
 * Group Definition
-** Ashim
-** Aditi
-** Bhargav
-** Saksham
+** Ashim :creative:
+  + Current Objective: Presentation for Execs
+** Aditi :creative:
+  + Current Objective: Documenting a "About us and why"
+** Bhargav :Creative:
+  + Current Objective: Framework / Wireframe
+** Saksham :Dev:
+  + Current Objective: Learn Flutter
+** Saksham :Professional Idiot:
+  + Current Objective: Survive
 
 * Resources
 ** Textual Resources
